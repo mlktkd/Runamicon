@@ -5,3 +5,5 @@
 /.vs
 /GameExecutable/.vs/Runamicon-Kingdom Albertia
 *.user
+/GameExecutable/Runamico.*
+/GameExecutable/x64
