@@ -235,7 +235,7 @@ void PlayerKnight::Init() {
   oldHealth = health;
   Damage = 2;
   isAlive = true;
-  isInvincible = true;
+  isInvincible = false; // set to true to get a god mode
   speed = 3.5f;
   Pos = Coord(100, 650);
   plHitBox = HitBox(34, 60, 20, 20);

@@ -1,0 +1,9 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GameExecutable/.vs/Runamicon-Kingdom Albertia
+*.user
+/GameExecutable/Runamico.*
+/GameExecutable/x64
