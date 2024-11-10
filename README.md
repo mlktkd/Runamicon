@@ -1,6 +1,12 @@
-This is our first 2d game made by Kaliaskarova Malika and Yelemanov Temirlan.
+# 2D Game Project
 
-Made by using SFML library.
+This is our first 2D game, created by **Kaliaskarova Malika** and **Yelemanov Temirlan** using the **SFML** library.
 
-How to build the project:
-just copy .dll files from SFML-2.6.1\bin folder to your Debug or Release folders and you are good to go.
+## Getting Started
+
+To build and run the project:
+1. Copy all `.dll` files from the `SFML-2.6.1/bin` folder.
+2. Paste them into your `Debug` or `Release` folder.
+3. You're ready to play!
+
+Happy gaming!
