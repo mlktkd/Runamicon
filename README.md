@@ -11,4 +11,13 @@ To build and run the project:
 
 Alternatively, you can find a pre-built executable in the `Runamicon_Kingdom_Albertia_Release_Version_1.7.zip` file.
 
+## Controls
+
+- **Arrow Keys**: Move character
+- **Right Shift**: Attack
+- **Right Ctrl**: Block
+- **F**: Interact
+- **H**: Use healing potion
+- **Arrow Keys + Enter**: Navigate menu
+
 Happy gaming!
