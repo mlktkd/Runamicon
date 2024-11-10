@@ -1,6 +1,6 @@
-# 2D Game Project
+# Runamicon - Kingdom Albertia
 
-This is our first 2D game, created by **Kaliaskarova Malika** and **Yelemanov Temirlan** using the **SFML** library.
+Welcome to **Runamicon - Kingdom Albertia**, a 2D game created by **Kaliaskarova Malika** and **Yelemanov Temirlan** using the **SFML** library.
 
 ## Getting Started
 
